@@ -1,5 +1,5 @@
 ### Olá sou o Yuri 👋
-Sou um programdor em foco back-end, <br/>
+Sou um desenvolvedor fullstack com foco em back-end, <br/>
 que gosta de aprender e descobrir novidades da área de programação e tecnologia, sempre melhorando para abrir meu leque de habilidades para ajudar!
 
 <!--[![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezYuri&show_icons=true&theme=radical&layout=compact)](https://github.com/SanchezYuri) -->
